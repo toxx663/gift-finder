@@ -1,0 +1,13 @@
+{
+  "name": "gift-finder",
+  "description": "Find a well-researched gift for someone (or yourself): a short guided interview, a shortlist of gift categories, then live product research ending in three concrete picks.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Louis Retter",
+    "url": "https://github.com/toxx663"
+  },
+  "homepage": "https://github.com/toxx663/gift-finder",
+  "repository": "https://github.com/toxx663/gift-finder",
+  "license": "MIT",
+  "keywords": ["gifts", "gift-ideas", "shopping", "recommendations", "product-research"]
+}
